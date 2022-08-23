@@ -1,0 +1,15 @@
+
+cd /home/mahmudul/Code/cepron-frontend
+
+
+sudo git checkout .
+sudo git checkout main
+sudo git pull origin main
+
+
+sudo yarn install
+sudo yarn build
+
+
+sudo pm2 delete "Cepron"
+sudo pm2 start /home/mahmudul/Code/cepron-frontend/ecosystem.config.js

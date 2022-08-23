@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="bar-chart-2" transform="translate(0 0.192)">
+    <rect id="Rectangle_44" data-name="Rectangle 44" width="20" height="20" transform="translate(20 -0.192) rotate(90)" opacity="0"/>
+    <path id="Path_420" data-name="Path 420" d="M11.8,8a.8.8,0,0,0-.8.8v8.814a.8.8,0,1,0,1.6,0V8.8A.8.8,0,0,0,11.8,8Z" transform="translate(-1.801 -1.205)" fill="#324efd" stroke="#324efd" stroke-width="2"/>
+    <path id="Path_421" data-name="Path 421" d="M18.8,4a.8.8,0,0,0-.8.8V16.82a.8.8,0,1,0,1.6,0V4.8A.8.8,0,0,0,18.8,4Z" transform="translate(-3.192 -0.41)" fill="#324efd" stroke="#324efd" stroke-width="2"/>
+    <path id="Path_422" data-name="Path 422" d="M4.8,12a.8.8,0,0,0-.8.8V18.41a.8.8,0,1,0,1.6,0V12.8A.8.8,0,0,0,4.8,12Z" transform="translate(-0.41 -2)" fill="#324efd" stroke="#324efd" stroke-width="2"/>
+  </g>
+</svg>

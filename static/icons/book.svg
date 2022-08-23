@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="book" transform="translate(0 0.192)">
+    <rect id="Rectangle_42" data-name="Rectangle 42" width="20" height="20" transform="translate(0 -0.192)" fill="#ff6f9b" opacity="0"/>
+    <path id="Path_418" data-name="Path 418" d="M16.6,3H6.52A2.52,2.52,0,0,0,4,5.52V15.6a2.52,2.52,0,0,0,2.52,2.52H16.6a.84.84,0,0,0,.84-.84V3.84A.84.84,0,0,0,16.6,3ZM6.52,16.44a.84.84,0,1,1,0-1.68h9.24v1.68Z" transform="translate(-0.72 -0.56)" fill="#ff6f9b"/>
+  </g>
+</svg>

@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="909" height="575" viewBox="0 0 909 575">
+  <defs>
+    <filter id="Statistics.BG" x="0" y="0" width="909" height="575" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="17.5" result="blur"/>
+      <feFlood flood-color="#324efd" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#324efd"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="Path_3623" x="363" y="193" width="176" height="108" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-color="#324efd" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Activity_Log_Graph" data-name="Activity Log Graph" transform="translate(-1065.5 -238.097)">
+    <g transform="matrix(1, 0, 0, 1, 1065.5, 238.1)" filter="url(#Statistics.BG)">
+      <rect id="Statistics.BG-2" data-name="Statistics.BG" width="804" height="470" rx="15" transform="translate(52.5 37.5)" fill="#fff"/>
+    </g>
+    <path id="Chart_Grid" data-name="Chart Grid" d="M0,264V0H.664V263H148.785V203H.862v-1H148.785V142H.862v-1H148.785V81H.862V80H148.785V20H.862V19H148.785V0h.664V19H289.6V0h.664V19H431.743V0h.664V19H571.894V0h.664V19H723.139v1H572.558V80H723.139v1H572.558v60H723.139v1H572.558v60H723.139v1H572.558v60H723.336V0H724V264Zm571.894-1V203H432.407v60Zm-140.151,0V203H290.265v60ZM289.6,263V203H149.45v60Zm282.294-61V142H432.407v60Zm-140.151,0V142H290.265v60ZM289.6,202V142H149.45v60Zm282.294-61V81H432.407v60Zm-140.151,0V81H290.265v60ZM289.6,141V81H149.45v60ZM571.894,80V20H432.407V80ZM431.743,80V20H290.265V80ZM289.6,80V20H149.45V80Z" transform="translate(1178 390.158)" fill="#f1f2f6"/>
+    <g id="Total_Views_Graph" data-name="Total Views Graph" transform="translate(1173 481.194)">
+      <path id="Filled.Graph" d="M330,490.153V354.422s81.482,134.945,148.417,140.023c74.682-1.144,75.294-70.055,140.92-107.78,54.94-29.621,96.863,51.18,142.818,53.151s77.671-55.378,140.368-59.362c81.232,6,146.414,82.62,151.472,86.74V523.21l-724,.1Z" transform="translate(-324.995 -350)" opacity="0.7" fill="url(#linear-gradient)"/>
+      <path id="Line.Graph" d="M312.953,279.164S396.934,416.6,462.569,417.881s88.079-80.975,140.779-108.707,98.417,52.9,142.416,53.91,86.126-60.576,140.187-58.9,115.871,48.262,150.042,85.012" transform="translate(-306.994 -274)" fill="none" stroke="#324efd" stroke-width="2"/>
+      <g id="Jun.Ellipse" transform="translate(723.816 111)" fill="#fff" stroke="#324efd" stroke-width="2">
+        <circle cx="4.995" cy="4.995" r="4.995" stroke="none"/>
+        <circle cx="4.995" cy="4.995" r="3.995" fill="none"/>
+      </g>
+      <g id="May.Ellipse" transform="translate(572.273 25)" fill="#fff" stroke="#324efd" stroke-width="2">
+        <circle cx="4.995" cy="4.995" r="4.995" stroke="none"/>
+        <circle cx="4.995" cy="4.995" r="3.995" fill="none"/>
+      </g>
+      <g id="Apr.Ellipse" transform="translate(432.03 84)" fill="#fff" stroke="#324efd" stroke-width="2">
+        <circle cx="4.995" cy="4.995" r="4.995" stroke="none"/>
+        <circle cx="4.995" cy="4.995" r="3.995" fill="none"/>
+      </g>
+      <g id="Mar.Ellipse" transform="translate(290.457 30)" fill="#fff" stroke="#324efd" stroke-width="2">
+        <circle cx="4.995" cy="4.995" r="4.995" stroke="none"/>
+        <circle cx="4.995" cy="4.995" r="3.995" fill="none"/>
+      </g>
+      <g id="Feb.Ellipse" transform="translate(148.885 139)" fill="#fff" stroke="#324efd" stroke-width="2">
+        <circle cx="4.995" cy="4.995" r="4.995" stroke="none"/>
+        <circle cx="4.995" cy="4.995" r="3.995" fill="none"/>
+      </g>
+      <g id="Jan.Ellipse" fill="#fff" stroke="#324efd" stroke-width="2">
+        <circle cx="4.995" cy="4.995" r="4.995" stroke="none"/>
+        <circle cx="4.995" cy="4.995" r="3.995" fill="none"/>
+      </g>
+    </g>
+    <g id="Months" transform="translate(1178 674.597)">
+      <text id="Web_design" data-name="Web design" transform="translate(0 10)" fill="#747d8c" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Web design</tspan></text>
+      <text id="English" transform="translate(141.96 10)" fill="#747d8c" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">English</tspan></text>
+      <text id="UI_UX_Design" data-name="UI UX Design" transform="translate(281.119 10)" fill="#747d8c" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">UI UX Design</tspan></text>
+      <text id="Photography" transform="translate(423.119 10)" fill="#747d8c" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Photography</tspan></text>
+      <text id="Programming" transform="translate(561.199 10)" fill="#747d8c" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Programming</tspan></text>
+      <text id="IELTS" transform="translate(726 10)" fill="#747d8c" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-32.076" y="0">IELTS</tspan></text>
+    </g>
+    <g id="Y-Axis-Info" transform="translate(1138 400.459)">
+      <text id="_00" data-name="00" transform="translate(0 254)" fill="#747d8c" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">00</tspan></text>
+      <text id="_300" data-name="300" transform="translate(0 193)" fill="#747d8c" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">300</tspan></text>
+      <text id="_600" data-name="600" transform="translate(0 133)" fill="#747d8c" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">600</tspan></text>
+      <text id="_900" data-name="900" transform="translate(0 71)" fill="#747d8c" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">900</tspan></text>
+      <text id="_1.2k" data-name="1.2k" transform="translate(0 10)" fill="#747d8c" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">1.2k</tspan></text>
+    </g>
+    <text id="Statistics" transform="translate(1138 341.597)" fill="#747d8c" font-size="16" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Statistics</tspan></text>
+    <g id="Filter" transform="translate(1719 316.597)">
+      <g id="Selectbox.BG" fill="#fff" stroke="#f1f2f6" stroke-width="1">
+        <rect width="183" height="40" stroke="none"/>
+        <rect x="0.5" y="0.5" width="182" height="39" fill="none"/>
+      </g>
+      <g id="Group_9674" data-name="Group 9674" transform="translate(20 8)">
+        <text id="This_months" data-name="This months" transform="translate(0 18)" fill="#747d8c" font-size="16" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">This months</tspan></text>
+        <g id="Layer_2" data-name="Layer 2" transform="translate(119)">
+          <g id="arrow-ios-downward">
+            <rect id="Rectangle_45" data-name="Rectangle 45" width="24" height="24" fill="#747d8c" opacity="0"/>
+            <path id="Path_423" data-name="Path 423" d="M12,16a1,1,0,0,1-.64-.23l-6-5A1,1,0,0,1,6.64,9.23L12,13.71l5.36-4.32A1.025,1.025,0,1,1,18.63,11l-6,4.83A1,1,0,0,1,12,16Z" transform="translate(0 0.403)" fill="#747d8c"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Hover" transform="translate(107 28.597)">
+      <g transform="matrix(1, 0, 0, 1, 958.5, 209.5)" filter="url(#Path_3623)">
+        <g id="Path_3623-2" data-name="Path 3623" transform="translate(385.5 210.5)" fill="#fff">
+          <path d="M 18.98134422302246 62.09102630615234 L 11.60970020294189 51.27878189086914 L 11.46083354949951 51.06044769287109 L 11.19658374786377 51.06044769287109 C 5.298466682434082 51.06044769287109 0.5 46.36349868774414 0.5 40.59014892578125 L 0.5 10.97031497955322 C 0.5 5.196964740753174 5.298466682434082 0.4999980926513672 11.19658374786377 0.4999980926513672 L 119.8034133911133 0.4999980926513672 C 125.701530456543 0.4999980926513672 130.5 5.196964740753174 130.5 10.97031497955322 L 130.5 40.59014892578125 C 130.5 46.36349868774414 125.701530456543 51.06044769287109 119.8034133911133 51.06044769287109 L 26.26918411254883 51.06044769287109 L 25.99458312988281 51.06044769287109 L 25.84724998474121 51.29218292236328 L 18.98134422302246 62.09102630615234 Z" stroke="none"/>
+          <path d="M 11.19657897949219 0.9999961853027344 C 5.574165344238281 0.9999961853027344 1 5.472652435302734 1 10.97030639648438 L 1 40.59014129638672 C 1 46.08779907226562 5.574165344238281 50.56045150756836 11.19657897949219 50.56045150756836 L 11.72509002685547 50.56045150756836 L 18.96675872802734 61.18204498291016 L 25.71997833251953 50.56045150756836 L 119.8034210205078 50.56045150756836 C 125.4258346557617 50.56045150756836 130 46.08779907226562 130 40.59014129638672 L 130 10.97030639648438 C 130 5.472652435302734 125.4258346557617 0.9999961853027344 119.8034210205078 0.9999961853027344 L 11.19657897949219 0.9999961853027344 M 11.19657897949219 -3.814697265625e-06 L 119.8034210205078 -3.814697265625e-06 C 125.9871063232422 -3.814697265625e-06 131 4.911579132080078 131 10.97030639648438 L 131 40.59014129638672 C 131 46.64887237548828 125.9871063232422 51.56045150756836 119.8034210205078 51.56045150756836 L 26.26918029785156 51.56045150756836 L 18.99591064453125 63 L 11.19657897949219 51.56045150756836 C 5.012870788574219 51.56045150756836 0 46.64887237548828 0 40.59014129638672 L 0 10.97030639648438 C 0 4.911579132080078 5.012870788574219 -3.814697265625e-06 11.19657897949219 -3.814697265625e-06 Z" stroke="none" fill="#f1f2f6"/>
+        </g>
+      </g>
+      <text id="You_visited_632_Courses_" data-name="You visited 632
+Courses  " transform="translate(1365 441)" fill="#747d8c" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">You visited 632</tspan><tspan x="0" y="20" xml:space="preserve">Courses  </tspan></text>
+    </g>
+  </g>
+</svg>
