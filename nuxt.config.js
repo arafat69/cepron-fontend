@@ -78,7 +78,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: process.env.BASE_URL,
+    baseURL: https://www.cepron.org/api,
   },
   toast: {
     position: 'bottom-right', // message will display at the bottom right corner of the screen
