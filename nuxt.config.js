@@ -68,7 +68,7 @@ export default {
   ],
 
   sitemap: {
-    hostname: process.env.BASE_URL,
+    hostname: http://cepron-core.test/api/,
     exclude: ['/my-courses', '/dashboard', '/otp', 'settings'],
     // routes: async () => {
     //   const { data } = await axios.get('http://cepron-core.test/api/courses')
