@@ -68,7 +68,7 @@ export default {
   ],
 
   sitemap: {
-    hostname: http://cepron-core.test/api/,
+    hostname: 'https://www.cepron.org/api',
     exclude: ['/my-courses', '/dashboard', '/otp', 'settings'],
     // routes: async () => {
     //   const { data } = await axios.get('http://cepron-core.test/api/courses')
@@ -78,7 +78,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: https://www.cepron.org/api,
+    baseURL: 'https://www.cepron.org/api',
   },
   toast: {
     position: 'bottom-right', // message will display at the bottom right corner of the screen
